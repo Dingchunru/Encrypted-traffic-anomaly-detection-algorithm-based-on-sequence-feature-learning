@@ -1,0 +1,7 @@
+{
+  "data_dir": "E:\\USTC-TFC2016_organized\\preprocess1",
+  "output_dir": "E:\\USTC-TFC2016_organized\\results1",
+  "batch_size": 16,
+  "epochs": 50,
+  "device": "cuda"
+}
