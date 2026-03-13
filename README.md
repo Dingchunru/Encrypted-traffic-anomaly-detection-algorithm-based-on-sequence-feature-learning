@@ -188,22 +188,6 @@ A: 需要将数据预处理为相同的格式：(n_samples, sequence_length, fea
 - [ ] 优化少数类别的识别准确率
 - [ ] 提供Web界面进行实时流量分类
 
-## 引用
-
-如果您使用本项目，请引用：
-
-```
-@misc{ustc-tfc2016-lstm,
-  author = {Your Name},
-  title = {USTC-TFC2016 Network Traffic Classification with LSTM},
-  year = {2024},
-  publisher = {GitHub},
-  url = {[项目地址]}
-}
-```
-
-
-
 ## 联系方式
 
 - 作者：丁春儒
